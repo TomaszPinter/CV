@@ -1,3 +1,6 @@
 # my CV
 
-# css
+technology
+
+- html
+- css
